@@ -1,0 +1,2 @@
+# Analysis-of-UNICEF-Dataset
+Each year, UNICEF’s flagship publication, the State of the World's Children, closely examines a key issue affecting children. We understand that consistent and credible analysis about a child's situations is very crucial in improving their lives. To realize and restore the rights of every child, we ask you to analyze the data through visualizations to make their lives better.
